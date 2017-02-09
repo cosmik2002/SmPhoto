@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SmPfoto</string>
+    <string name="button">Scn Code</string>
+    <string name="string">Text</string>
+    <string name="shootBtn">Take Photo</string>
+    <string name="PhotoFrameBtn">Take Photo</string>
+    <string name="title_activity_photo">PhotoActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_browser">BrowserActivity</string>
+    <string name="webwievBtn">SearchInet</string>
+</resources>
